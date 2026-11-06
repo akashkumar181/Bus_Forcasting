@@ -379,8 +379,7 @@ Commands should match the final implemented repository structure.
 **Name:** Akash Kumar  
 **Project:** Bus Passenger-Demand Forecasting  
 **Domain:** AI & Machine Learning  
-**Organization:** ALGIONS AI LABS PRIVATE LIMITED  
-**GitHub:** https://github.com/akashkumar181
+
 
 ---
 
